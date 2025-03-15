@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Bitcoin",
+        "token_symbol": "BTC",
+        "price": "$ 84,423",
+        "market_cap": "$ 1.67T",
+        "volume": "$ 12.12B",
+        "supply": "BTC 19.84M",
+        "description": "Bitcoin (BTC) is a blockchain project. Current price: $ 84,423. Market cap: $ 1.67T. 24h volume: $ 12.12B. Circulating supply: BTC 19.84M. ",
+        "ai_summary": "Bitcoin (BTC) is a blockchain project with a current price of $84,423 and a market capitalization of $1.67 trillion, with a circulating supply of 19.84 million."
+    },
+    {
+        "name": "Ethereum",
+        "token_symbol": "ETH",
+        "price": "$ 1,932",
+        "market_cap": "$ 233.02B",
+        "volume": "$ 5.10B",
+        "supply": "ETH 120.62M",
+        "description": "Ethereum (ETH) is a blockchain project. Current price: $ 1,932. Market cap: $ 233.02B. 24h volume: $ 5.10B. Circulating supply: ETH 120.62M. ",
+        "ai_summary": "Ethereum is a blockchain project with a current price of $1,932 and a market capitalization of $233.02 billion, allowing for decentralized applications and smart contracts to be built and executed on its platform."
+    },
+    {
+        "name": "Tether",
+        "token_symbol": "USDT",
+        "price": "$ 1.00",
+        "market_cap": "$ 143.47B",
+        "volume": "$ 29.97B",
+        "supply": "USDT 143.47B",
+        "description": "Tether (USDT) is a blockchain project. Current price: $ 1.00. Market cap: $ 143.47B. 24h volume: $ 29.97B. Circulating supply: USDT 143.47B. ",
+        "ai_summary": "Tether (USDT) is a blockchain project with a market capitalization of $143.47 billion and a circulating supply of 143.47 billion tokens, currently priced at $1.00."
+    },
+    {
+        "name": "XRP",
+        "token_symbol": "XRP",
+        "price": "$ 2.44",
+        "market_cap": "$ 142.12B",
+        "volume": "$ 2.94B",
+        "supply": "XRP 58.11B",
+        "description": "XRP (XRP) is a blockchain project. Current price: $ 2.44. Market cap: $ 142.12B. 24h volume: $ 2.94B. Circulating supply: XRP 58.11B. ",
+        "ai_summary": "XRP is a blockchain project with a market capitalization of $142.12 billion and a current price of $2.44, offering a circulating supply of 58.11 billion tokens."
+    },
+    {
+        "name": "BNB",
+        "token_symbol": "BNB",
+        "price": "$ 599.41",
+        "market_cap": "$ 87.45B",
+        "volume": "$ 427.22M",
+        "supply": "BNB 145.89M",
+        "description": "BNB (BNB) is a blockchain project. Current price: $ 599.41. Market cap: $ 87.45B. 24h volume: $ 427.22M. Circulating supply: BNB 145.89M. ",
+        "ai_summary": "BNB is a blockchain project with a market capitalization of $87.45 billion and a current price of $599.41, with a circulating supply of 145.89 million tokens."
+    },
+    {
+        "name": "Solana",
+        "token_symbol": "SOL",
+        "price": "$ 135.41",
+        "market_cap": "$ 69.03B",
+        "volume": "$ 2.33B",
+        "supply": "SOL 509.71M",
+        "description": "Solana (SOL) is a blockchain project. Current price: $ 135.41. Market cap: $ 69.03B. 24h volume: $ 2.33B. Circulating supply: SOL 509.71M. ",
+        "ai_summary": "Solana (SOL) is a blockchain project with a market capitalization of $69.03 billion and a current price of $135.41, offering a circulating supply of 509.71 million SOL tokens."
+    },
+    {
+        "name": "USDC",
+        "token_symbol": "USDC",
+        "price": "$ 1.00",
+        "market_cap": "$ 58.69B",
+        "volume": "$ 4.96B",
+        "supply": "USDC 58.70B",
+        "description": "USDC (USDC) is a blockchain project. Current price: $ 1.00. Market cap: $ 58.69B. 24h volume: $ 4.96B. Circulating supply: USDC 58.70B. ",
+        "ai_summary": "USDC is a blockchain project with a token symbol of USDC, currently priced at $1.00 and boasting a market capitalization of $58.69 billion, with a 24-hour trading volume of $4.96 billion and a circulating supply of 58.70 billion."
+    },
+    {
+        "name": "Cardano",
+        "token_symbol": "ADA",
+        "price": "$ 0.751",
+        "market_cap": "$ 27.01B",
+        "volume": "$ 645.25M",
+        "supply": "ADA 35.96B",
+        "description": "Cardano (ADA) is a blockchain project. Current price: $ 0.751. Market cap: $ 27.01B. 24h volume: $ 645.25M. Circulating supply: ADA 35.96B. ",
+        "ai_summary": "Cardano (ADA) is a blockchain project with a market capitalization of $27.01 billion and a current price of $0.751, offering a circulating supply of 35.96 billion ADA tokens."
+    },
+    {
+        "name": "Dogecoin",
+        "token_symbol": "DOGE",
+        "price": "$ 0.177",
+        "market_cap": "$ 26.25B",
+        "volume": "$ 749.41M",
+        "supply": "DOGE 148.41B",
+        "description": "Dogecoin (DOGE) is a blockchain project. Current price: $ 0.177. Market cap: $ 26.25B. 24h volume: $ 749.41M. Circulating supply: DOGE 148.41B. ",
+        "ai_summary": "Dogecoin (DOGE) is a blockchain project with a market capitalization of $26.25 billion and a current price of $0.177, with a circulating supply of 148.41 billion tokens."
+    },
+    {
+        "name": "TRON",
+        "token_symbol": "TRX",
+        "price": "$ 0.224",
+        "market_cap": "$ 21.28B",
+        "volume": "$ 359.33M",
+        "supply": "TRX 95.03B",
+        "description": "TRON (TRX) is a blockchain project. Current price: $ 0.224. Market cap: $ 21.28B. 24h volume: $ 359.33M. Circulating supply: TRX 95.03B. ",
+        "ai_summary": "TRON (TRX) is a blockchain project with a market capitalization of $21.28 billion and a current price of $0.224, offering a circulating supply of 95.03 billion TRX tokens."
+    }
+]
